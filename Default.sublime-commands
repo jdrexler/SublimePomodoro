@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Pomodoro: Start Timer",
+        "command": "start_pomodoro_timer"
+    },
+    {
+        "caption": "Pomodoro: Stop Timer",
+        "command": "stop_pomodoro_timer"
+    }
+]

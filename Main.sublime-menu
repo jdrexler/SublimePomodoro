@@ -1,0 +1,11 @@
+[  
+{  
+    "id": "tools",  
+    "children":  
+    [  
+        {"id": "macros"},  
+        { "command": "start_pomodoro_timer" },
+        { "command": "stop_pomodoro_timer" }    
+    ]  
+}  
+]
